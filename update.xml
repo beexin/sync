@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!--  配置文件升级 -->
 <dir>
-	<to>George</to>
-	<from>John</from>
-	<heading>Reminder</heading>
-	<body>Don't forget the meeting!</body>
+<d1>技术资料</d1>
 </dir> 
